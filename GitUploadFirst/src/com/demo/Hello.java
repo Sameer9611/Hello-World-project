@@ -12,6 +12,8 @@ public class Hello {
 	intt.add(321);
 	intt.add(312);
 	intt.add(321);
+	intt.add(3221);
+
 	}
 
 }
